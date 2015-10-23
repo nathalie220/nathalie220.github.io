@@ -3,7 +3,11 @@ body {
 }
 h1	{
 	font-family: helvetica;
-	color: white;
+	color: gray;
+}
+h2	{
+	font-family: helvetica;
+	color: blue;
 }
 #container {
 	text-align: center;
