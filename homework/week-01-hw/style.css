@@ -1,0 +1,9 @@
+body {
+	background: gray;
+	color: white;
+	font-family: veranda, geneva, 'sans-serif';
+}
+
+h1 {
+	text-decoration: underline;
+}
