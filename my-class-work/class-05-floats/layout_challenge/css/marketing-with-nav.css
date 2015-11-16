@@ -1,0 +1,57 @@
+.container {
+	margin: 0 auto;
+	width: 1200px;
+}
+
+header {
+	background-color: red;
+	overflow: auto;
+	padding: 20px;
+}
+
+.logo {
+	height: 80px;
+	width: 200px;
+	background-color: black;
+	float: left;
+}
+
+nav {
+	margin: 20px;
+	background-color: tan;
+	float: right;
+
+}
+
+nav a {
+	display: inline-block;
+	height: 40px;
+	width: 100px;
+	background-color: gray;
+
+}
+ 
+main {
+	height: 250px;
+	margin-top: 20px;
+	background-color: pink;
+	margin-bottom: 20px;
+}
+
+article {
+	margin-top: 20px;
+	background-color: lavender;
+	height: 100px;
+	width: 400px;
+	float: left;
+}
+
+footer {
+	margin-top: 20px;
+	background-color: blue;
+	height: 100px;
+}
+
+.clear {
+	clear: both;
+}

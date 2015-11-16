@@ -1,0 +1,99 @@
+body {
+	font-family: "source sans pro";
+}
+
+#container {
+	background-image: url("images/coworking.jpg");
+}
+
+header {
+	background-color: black;
+	overflow: hidden;
+	padding: 0 10px;
+	border-bottom: 4px solid yellow; 
+}
+
+h1 {
+	color: yellow;
+	font-family: "merriweather", serif; 
+	font-size: 30px;
+	float: left;
+}
+
+nav {
+	float: right;
+	margin-top: 20px;
+
+}
+nav a {
+	text-decoration: none;
+	margin-right: 20px;
+	color: white;
+}
+
+#tagline {
+	text-align: center;
+	font-family: merriweather, serif;
+	font-size: 25px;
+	background-color: #c6c6c6; 
+	padding: 20px;
+
+}
+
+#image {
+	width: 1000px;  
+
+}
+
+#button {
+	height: 40px;
+	width: 150px;
+	background-color: yellow;
+	float: right;
+	text-align: center;
+	text-decoration: none;
+}
+
+footer {
+	color: white;
+	background-color: black;
+	overflow: hidden;
+	font-size: 20px; 
+	padding: 15px; 
+
+}
+
+#signupnow a {
+	height: 50px;
+	width: 180px;
+	background-color: gray; 
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	margin-top: 10px;
+
+}
+
+#startyoursearch a {
+	height: 50px;
+	width: 180px;
+	background-color: gray;
+	text-align: center; 
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+
+}
+
+#startyoursearch2 a {
+	height: 50px;
+	width: 180px;
+	background-color: gray;
+	text-align: center; 
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+}
+
+
