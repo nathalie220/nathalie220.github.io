@@ -45,13 +45,17 @@ nav a {
 
 }
 
+#popup {
+	float: right;
+}
+
 #button a {
 	background-color: yellow;
 	float: right;
 	text-align: center;
 	text-decoration: none;
 	color: black;
-	padding: 10px;
+	padding: 10px
 }
 
 footer {
