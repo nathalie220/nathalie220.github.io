@@ -1,0 +1,4 @@
+$('.dC').keyup(function() {
+  var result = Number($('.dC').val()) * 9 / 5 + 32;
+  $('.dF').val(result);  
+});
