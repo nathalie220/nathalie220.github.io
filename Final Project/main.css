@@ -1,0 +1,28 @@
+body {
+	font-family: "american typewriter";
+	background-color: "egg shell";  
+
+}
+
+h1 {
+	text-align: center;
+}
+
+a {
+	color: gray;
+	text-decoration: none;
+}
+.right {
+	width: 85px;
+	float: right;
+}
+
+.right a {
+	float: right;
+}
+.a-wrapper {
+	    border-bottom: solid 1px bisque;
+}
+.a-wrapper div {
+	clear: right;
+}
