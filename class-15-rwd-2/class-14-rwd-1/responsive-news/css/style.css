@@ -102,3 +102,11 @@ p {
 	line-height: 0;
 	height: 0;
 }
+
+/* MEDIA QUERIES */
+@media (max-width: 480px) {
+	#container {
+		width: 100%;
+	}
+}
+
