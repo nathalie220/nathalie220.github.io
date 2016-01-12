@@ -6,19 +6,42 @@ body {
 
 h1 {
 	text-align: center;
+	background: black;
+	color: white;
+	overflow: hidden;
+	padding: 0 5%;
+	margin-top: 80px;
+ -moz-border-radius: 20px;
+    border-radius: 20px;
+border-color:black;
+    background-color:black;
+
+}
+
+.circle {
+	    width: 200px;
+    /* opacity: 0.5; */
+    position: relative;
+    height: 200px;
+    background: black;
+    border-radius: 120px;
+    left: 50%;
+    bottom: 135px;
+    margin-left: -100px;
+    z-index: -99;
 }
 
 a {
 	color: gray;
 	text-decoration: none;
 }
-.right {
+.navs {
 	width: 85px;
 	float: right;
 }
 
-.right a {
-	float: right;
+.navs a {
+	display: inline-block;
 }
 .a-wrapper {
 	    border-bottom: solid 1px bisque;
@@ -26,3 +49,51 @@ a {
 .a-wrapper div {
 	clear: right;
 }
+
+.shirt img {
+	width: 370px;
+	height: 308px;
+	text-align: center;
+	margin-top: 50px;
+	margin-right: 10px;
+	margin-left: 70px;
+
+}
+
+.indie-shirt {
+	margin-left: 20px;
+}
+
+.img 
+
+.shirt {
+	display: inline-block;
+}
+
+.shirt1{
+	margin-left: 250px;
+}
+
+.shirt2{
+	margin-left: 250px;
+}
+
+.shirt3{
+	margin-left: 250px;
+}
+
+footer {
+	background: black;
+	color: white;
+	padding: .5% .5%;
+	text-align: center;
+	clear: auto;
+	margin-top: 220px;
+	-moz-border-radius: 20px;
+    border-radius: 20px;
+border-color:black;
+    background-color:black;
+}
+
+
+
